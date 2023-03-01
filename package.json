@@ -24,7 +24,7 @@
     "sweetalert2": "^11.4.9",
     "three": "^0.139.2",
     "vanta": "^0.5.22",
-    "vue": "^2.6.14",
+    "vue": "^3.2.47",
     "vue-server-renderer": "^2.6.14",
     "vue-template-compiler": "^2.6.14",
     "vue-vanta": "^0.0.1",
